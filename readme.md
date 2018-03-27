@@ -69,8 +69,8 @@ Use SQL queries to complete the following tasks
 
 12. Show the id and title and genre of all games that were either:
 
-  Made before 1997,
+ - Made before 1997,
 
-  Made by Hal Laboratory,
+ - Made by Hal Laboratory,
 
-  Or, have the genre Platforming AND are made by Rare.
+ - Or, have the genre Platforming AND are made by Rare.
