@@ -65,7 +65,7 @@ Use SQL queries to complete the following tasks
 
 10. Remove all games not made by 'Hudson Soft'.
 
-11. Show the average release year for games that were made by Rare or have the title `Tony Hawk''s Pro Skater` in order of their title
+11. Show the average release year for games that were made by Rare or have the title `Tony Hawk''s Pro Skater`
 
 12. Show the id and title and genre of all games that were either:
 
